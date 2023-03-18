@@ -29,9 +29,7 @@
 				</ul>
 			</div>
 		</nav>
-		<div class="row">
-			<div class="col-sm-3">
-			<!--Tag de navegação-->
+		<!--Tag de navegação-->
 		<nav class="nav bg-light navbar-light">
 			<!--Divisão de um componente-->
 			<div>
@@ -54,10 +52,8 @@
 				</ul>
 			</div>
 		</nav>
-			</div>
-			<div class="col-sm-9">
+			<div>
 			<h1>Futebol Hard Tricks</h1>
-		</div>
 		</div>
 	</body>
 </html>
