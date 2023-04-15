@@ -13,18 +13,18 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item active">
+					<li class="nav-item  active">
 						<!--Link vazio-->
-						<a class="nav-link" href="#">Home</a>
+						<a class="nav-link" href="../index.html">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/roupas.html">Roupas</a>
+						<a class="nav-link" href="#">Roupas</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/calcados.html">Calçados</a>
+						<a class="nav-link" href="calcados.html">Calçados</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/acessorios.html">Acessórios</a>
+						<a class="nav-link" href="acessorios.html">Acessórios</a>
 					</li>
 				</ul>
 			</div>
@@ -40,7 +40,7 @@
 							<!--item da lista-->
 							<li class="nav-item active">
 								<!--Link vazio-->
-								<a class="nav-link" href="pages/novidades.html">Novidades</a>
+								<a class="nav-link" href="#">Novidades</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="pages/promocoes.html">Promoções</a>
@@ -56,28 +56,28 @@
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym</h1>
+				<h1>HardGym - promoções</h1>
 				<div class="row">
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/roupas/moletom.jpg" type="img/jpg" alt="moletom" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/conjunto.jpg" type="img/jpg" alt="conjunto" width="auto" height="150px"/>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/roupas/meia.jpg" type="img/jpg" alt="meia" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/meias.jpg" type="img/jpg" alt="meias" width="auto" height="150px"/>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/calcados/airmax.jpg" type="img/jpg" alt="airmax" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/nike-mc2.jpg" type="img/jpg" alt="nike-mc2" width="auto" height="150px"/>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/calcados/pureboost.jpg" type="img/jpg" alt="pureboost" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/nike-moletom.jpg" type="img/jpg" alt="moletom" width="auto" height="150px"/>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/acessorios/anilhas.jpg" type="img/jpg" alt="anilhas" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/shorts.jpg" type="img/jpg" alt="shorts" width="auto" height="150px"/>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img/acessorios/pancada.jpg" type="img/jpg" alt="pancada" width="auto" height="150px"/>
+					<div class="float-left m-2 col-sm-3">
+						<img src="../img/promocoes/shorts-nike.jpg" type="img/jpg" alt="shorts-nike" width="auto" height="150px"/>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>	
 	</body>
 </html>
