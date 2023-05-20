@@ -6,13 +6,13 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0"
 		<meta name="keybords" content="roupas, casual, tenis, academia, roupa fitness, saude, heath, saudavel">
 		<meta name="description" content=" A maneira certa de encontrar sua roupa para a jornada de forma saudavel esta aqui. A HardGym possui os mehore preços e as melhores marcas para quem treina pesado, aos que desejam uma vida de forma sadia, sempre com economia no bolso. Clique e faça-nos uma visita.">
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="../img/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="../img/favicons/favicon-16x16.png">
-		<link rel="manifest" href="../img/favicons/site.webmanifest">
-		<link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#2b5797">
-		<meta name="theme-color" content="#ffffff">
+			<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="../img/favicons/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="../img/favicons/favicon-16x16.png">
+			<link rel="manifest" href="../img/favicons/site.webmanifest">
+			<link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+			<meta name="msapplication-TileColor" content="#2b5797">
+			<meta name="theme-color" content="#ffffff">
 		<title>HardGym | Acessorios</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 	</head>
@@ -134,7 +134,7 @@
 					<div class="float-left m-2 col-sm-3">
 					<h3>Mochila</h3>
 						<img src="../img/acessorios/mochila.jpg" type="img/jpg" alt="mochila" width="auto" height="150px"/>
-						<p>Uma mochila para levar ao treino para facilitar sua vida</p>
+						<p>Uma mochila para levar ao treino</p>
 						<div class="row">
 							<p class="col-sm-5"><b>R$ 149,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
@@ -157,6 +157,45 @@
 					</div>
 					
 					
+					
+					
+					<div class="float-left m-2 col-sm-3">
+					<h3>Strap</h3>
+						<img src="../img/acessorios/strap.jpg" type="img/jpg" alt="pochete" width="auto" height="150px"/>
+						<p>Um strep para elevar seu treino</p>
+						<div class="row">
+							<p class="col-sm-5"><b>R$ 89,00</b></p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+					<a class="btn btn-success" href="produtos/strap.html">Comprar</a>
+					</div>
+
+					
+					
+					<div class="float-left m-2 col-sm-3">
+					<h3>Cinto Para Agachamento</h3>
+						<img src="../img/acessorios/cinto-agachamento.jpg" type="img/jpg" alt="pochete" width="auto" height="150px"/>
+						<p>Um cinto de agachamento para treino</p>
+						<div class="row">
+							<p class="col-sm-5"><b>R$ 89,00</b></p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+					<a class="btn btn-success" href="produtos/cinto-agachamento.html">Comprar</a>
+					</div>
+					
+					
+					
+					
+					<div class="float-left m-2 col-sm-3">
+					<h3>Faixa Para o Joelho</h3>
+						<img src="../img/acessorios/faixa-joelho.jpg" type="img/jpg" alt="pochete" width="auto" height="150px"/>
+						<p>Um faixa para o joelho para elevar seu treino</p>
+						<div class="row">
+							<p class="col-sm-5"><b>R$ 89,00</b></p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+					<a class="btn btn-success" href="produtos/faixa-joelho.html">Comprar</a>
+					</div>
 					
 					
 					

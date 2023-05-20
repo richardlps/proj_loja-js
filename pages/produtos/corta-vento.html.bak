@@ -13,7 +13,7 @@
 			<link rel="mask-icon" href="../../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 			<meta name="msapplication-TileColor" content="#2b5797">
 			<meta name="theme-color" content="#ffffff">
-		<title>HardGym | Tenis Classic</title>
+		<title>HardGym | Tenis Nike Jordan</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	</head>
@@ -76,15 +76,15 @@
 				
 				
 					<!--Estrutura de componente-->
-					<div class="float-left m-2 col-sm-6">
-						<h3>Tenis Classic</h3>
-						<img src="../../img/calcados/classic.jpg" type="img/jpg" alt="Reebok classic" width="auto" height="400px"/>
-						<p>Um confortavel tenis para fazer caminhada</p>
+						<div class="float-left m-2 col-sm-6">
+					<h3>Corta Vento</h3>
+						<img src="../img/roupas/corta-vento.jpg" type="img/jpg" alt="Meia" width="auto" height="400px"/>
+					<p>Um confortavel corta vento</p>
 						<div class="row">
-							<p class="col-sm-5"><b>R$ 265,00</b></p>
+							<p class="col-sm-5"><b>R$ 129,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
-					<a class="btn btn-success" href="produtos/classic.html">Comprar</a>
+					<a class="btn btn-success" href="produtos/corta-vento.html">Comprar</a>
 					</div>
 					
 				</div>

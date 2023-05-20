@@ -69,7 +69,7 @@
 				
 				
 					<!--Estrutura de componente-->
-					<div class="float-left m-2 col-sm-3">
+					<div class="float-left m-2 col-sm-6">
 						<h3>Tenis Jordan</h3>
 						<img src="../../img/calcados/jordan.jpg" type="img/jpg" alt="Jordan" width="auto" height="400px"/>
 					<p>Um confortavel tenis para sair</p>

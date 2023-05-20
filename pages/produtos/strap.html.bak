@@ -13,7 +13,7 @@
 			<link rel="mask-icon" href="../../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 			<meta name="msapplication-TileColor" content="#2b5797">
 			<meta name="theme-color" content="#ffffff">
-		<title>HardGym | Tenis Classic</title>
+		<title>HardGym | Tenis Nike Jordan</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	</head>
@@ -69,7 +69,7 @@
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym - Calçados - Tenis Nike Jordan</h1><i class="material-icons" style="font-size:36px;color:red">a</i>
+				<h1>HardGym - Calçados - Tenis Nike Zoom</h1><i class="material-icons" style="font-size:36px;color:red">a</i>
 				<div class="row">
 				
 				
@@ -77,14 +77,14 @@
 				
 					<!--Estrutura de componente-->
 					<div class="float-left m-2 col-sm-6">
-						<h3>Tenis Classic</h3>
-						<img src="../../img/calcados/classic.jpg" type="img/jpg" alt="Reebok classic" width="auto" height="400px"/>
-						<p>Um confortavel tenis para fazer caminhada</p>
+					<h3>Strap</h3>
+						<img src="../../img/acessorios/strap.jpg" type="img/jpg" alt="pochete" width="auto" height="400px"/>
+						<p>Um strep para elevar seu treino</p>
 						<div class="row">
-							<p class="col-sm-5"><b>R$ 265,00</b></p>
+							<p class="col-sm-5"><b>R$ 89,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
-					<a class="btn btn-success" href="produtos/classic.html">Comprar</a>
+					<a class="btn btn-success" href="produtos/strap.html">Comprar</a>
 					</div>
 					
 				</div>

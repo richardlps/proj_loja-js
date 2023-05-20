@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0"
 		<meta name="keybords" content="roupas, casual, tenis, academia, roupa fitness, saude, heath, saudavel">
 		<meta name="description" content=" A maneira certa de encontrar sua roupa para a jornada de forma saudavel esta aqui. A HardGym possui os mehore preços e as melhores marcas para quem treina pesado, aos que desejam uma vida de forma sadia, sempre com economia no bolso. Clique e faça-nos uma visita.">
-		<title>HardGym | Tenis Nike Jordan</title>
+		<title>HardGym | Tenis Run Falcon</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	</head>
@@ -69,15 +69,15 @@
 				
 				
 					<!--Estrutura de componente-->
-					<div class="float-left m-2 col-sm-6">
-						<h3>Tenis Jordan</h3>
-						<img src="../../img/calcados/jordan.jpg" type="img/jpg" alt="Jordan" width="auto" height="400px"/>
-					<p>Um confortavel tenis para sair</p>
+				<div class="float-left m-2 col-sm-6">
+						<h3>Tenis Run Falcon</h3>
+						<img src="../../img/calcados/runfalcon.jpg" type="img/jpg" alt="Run Falcon" width="auto" height="400px"/>
+						<p>Um confortavel tenis para fazer uma corrida</p>
 						<div class="row">
-							<p class="col-sm-5"><b>R$ 325,00</b></p>
+							<p class="col-sm-5"><b>R$ 375,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
-					<a class="btn btn-success" href="produtos/tenis-nike.html">Comprar</a>
+					<a class="btn btn-success" href="produtos/run-falcon.html">Comprar</a>
 					</div>
 					
 				</div>
